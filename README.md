@@ -7,9 +7,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kst6294" alt=Andy's Github Stats">
 </p>
 
-
-<div align="right">
-  <div align="left" frameborder="1">
+  <div align="left">
     <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
   </div>
   <div align="center>
@@ -30,5 +28,3 @@
 <p align="center">Thanks for Come To Me🙇🏻‍♂️</p>
 <p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkst6294" /></p>
 <br/>
-                                  
-.div {border: 1px solid black;}
