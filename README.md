@@ -12,13 +12,13 @@
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>
 </div>
 
-<div align="center>
-  <p align="center">
+<div align="right>
+  <p align="left">
     <a href="https://www.linkedin.com/in/suntae-kim-a58572112/" target="blank">
-      <img align="left" alt="Ulfrid's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+      <img align="left" alt="Andy's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
     </a>
     <a href="https://www.instagram.com/def_andy/" target="blank">
-      <img align="left" alt="Ady's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+      <img align="left" alt="Andy's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
     </a>
     <a href="https://velog.io/@kst6294" target="blank">
       <img align="left" alt="Andy's Blog" width="30px" src="https://pbs.twimg.com/profile_images/1228368893321736193/Ov0og7E8.jpg" /> &nbsp; &nbsp;
