@@ -13,15 +13,15 @@
 </div>
 
 <div align="right>
-  <p align="left">
+  <p align="center">
     <a href="https://www.linkedin.com/in/suntae-kim-a58572112/" target="blank">
-      <img align="left" alt="Andy's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+      <img align="center" alt="Andy's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
     </a>
     <a href="https://www.instagram.com/def_andy/" target="blank">
-      <img align="left" alt="Andy's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+      <img align="center" alt="Andy's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
     </a>
     <a href="https://velog.io/@kst6294" target="blank">
-      <img align="left" alt="Andy's Blog" width="30px" src="https://pbs.twimg.com/profile_images/1228368893321736193/Ov0og7E8.jpg" /> &nbsp; &nbsp;
+      <img align="center" alt="Andy's Blog" width="30px" src="https://pbs.twimg.com/profile_images/1228368893321736193/Ov0og7E8.jpg" /> &nbsp; &nbsp;
     </a>
 </div>
 
