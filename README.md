@@ -1,7 +1,3 @@
-div {
-  border : 1px solid red;
-}
-
 <div align="left"> 
   <h2> Suntae Kim, Backend Dev </h2>
 </div>
