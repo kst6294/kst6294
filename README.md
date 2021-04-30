@@ -16,10 +16,10 @@
   <img align="left" alt="Ulfrid's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://www.instagram.com/def_andy/" target="blank">
-  <img align="center" alt="Ady's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+  <img align="left" alt="Ady's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://velog.io/@kst6294" target="blank">
-  <img align="left" alt="Andy's Blog" width="30px" src="https://pbs.twimg.com/profile_images/1228368893321736193/Ov0og7E8.jpg" /> &nbsp; &nbsp;
+  <img align="center" alt="Andy's Blog" width="30px" src="https://pbs.twimg.com/profile_images/1228368893321736193/Ov0og7E8.jpg" /> &nbsp; &nbsp;
  </a>
   <br/>
 </p>
