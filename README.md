@@ -1,7 +1,14 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/farms/kst6294"
-    width="600"
-    height="600"
-  />
-</a>
+### 👋 Andy Kim
+
+- 📫 **Email:** kst6294@gmail.com
+
+---
+
+### 🚀 Key Achievements
+
+---
+
+### 🛠 Tech Stack
+- **Languages** — Python, TypeScript
+- **Backend** — Django, FastAPI, PostgreSQL
+- **Devops** - AWS, Docker, Terraform
