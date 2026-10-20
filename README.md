@@ -1,6 +1,7 @@
 ### 👋 Andy Kim
 
-- 📫 **Email:** kst6294@gmail.com
+- **linkedin**: https://www.linkedin.com/in/kst6294/
+- **Email**: kst6294@gmail.com
 
 ---
 
