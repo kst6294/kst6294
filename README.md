@@ -1,6 +1,6 @@
 ### 👋 Andy Kim
 
-- **linkedin**: https://www.linkedin.com/in/kst6294/
+- **LinkedIn**: https://www.linkedin.com/in/kst6294/
 - **Email**: kst6294@gmail.com
 
 ---
@@ -15,4 +15,4 @@
 ### 🛠 Tech Stack
 - **Languages**: Python, TypeScript
 - **Backend**:  Django, FastAPI, PostgreSQL
-- **Devops**: AWS, Docker, Terraform
+- **DevOps**: AWS, Docker, Terraform
